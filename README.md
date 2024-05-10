@@ -6,4 +6,9 @@ Packages Nugets
  - Microsoft.EntityFrameworkCore.SqlServer
  - Microsoft.EntityFrameworkCore.Tools
 
+ Create IdentityDbContext
+
+ Add-Migration "nombre-version-de-la-migracion"
+ Update-Database
+
  
